@@ -225,9 +225,9 @@ The researcher assumes no responsibility for misuse of this information.
 ## 📞 Contact
 
 ### 🔗 Researcher Information
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **Security Contact**: security@yourdomain.com
-- **LinkedIn**: [Your LinkedIn Profile]
+- **GitHub**: [@denizZz009](https://github.com/denizZz009)
+- **Security Contact**: florea1337@protonmail.com
+- **LinkedIn**: [[LinkedIn Profile](https://www.linkedin.com/in/degemen/)]
 
 ### 📧 For Media/Press
 Please contact OpenAI directly for official statements regarding this vulnerability.
