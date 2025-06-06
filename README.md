@@ -226,7 +226,7 @@ The researcher assumes no responsibility for misuse of this information.
 
 ### 🔗 Researcher Information
 - **GitHub**: [@denizZz009](https://github.com/denizZz009)
-- **Security Contact**: florea1337@protonmail.com
+- **Security Contact**: degemenemr0146@gmail.com
 - **LinkedIn**: [[LinkedIn Profile](https://www.linkedin.com/in/degemen/)]
 
 ### 📧 For Media/Press
